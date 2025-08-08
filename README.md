@@ -58,7 +58,7 @@ _This app may cause Windows to warn you that it's 'unsafe' or 'contains a virus'
 -Once downloaded, double-click the 'SoloSight.exe' and viola!
 
 
-**HOW TO RUN DIRECTLY FROM PYTHON****
+**HOW TO RUN DIRECTLY FROM PYTHON**
 
 -Just download everything on this repo.
 
