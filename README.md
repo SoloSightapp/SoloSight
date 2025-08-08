@@ -1,10 +1,10 @@
-Welcome to SoloSight! 
+**Welcome to SoloSight! **
 
 I created this app (with ChatGPT's help) because I wanted to be able to use generic USB webcams on my 4Runner as 'spotter' cams since I do a lot of solo off-roading.
 This app is super barebones but does include all the basic functionality for viewing and recording up to 4 webcams on any windows device.
 All source code is available.
 
-SEE WEBSITE FOR:
+**SEE WEBSITE FOR:**
 
 Instructions.
 
@@ -14,10 +14,10 @@ Troubleshooting.
 
 Features.
 
-UPDATES:
+**UPDATES:**
 I don't really know how to code so any and all updates will be random and infrequent. I will however post updates on here as well as the SoloSight website.
 
-REQUIREMENTS:
+**REQUIREMENTS:**
 _Hardware:_
 
 A Windows PC (tested mainly on Win10/Win11, 64-bit preferred)
@@ -74,7 +74,7 @@ _This app may cause Windows to warn you that it's 'unsafe' or 'contains a virus'
 
 -If that doesn't work, figure it out. I don't know wtf I'm doing and if you're on GitHub, you're probably smarter than me and can figure it out.
 
-Please forward all issues, bugs, complaints, praise, and any questions to:
+**Please forward all issues, bugs, complaints, praise, and any questions to:
 solosightapp@gmail.com
-
+**
 
