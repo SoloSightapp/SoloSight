@@ -75,6 +75,5 @@ _This app may cause Windows to warn you that it's 'unsafe' or 'contains a virus'
 -If that doesn't work, figure it out. I don't know wtf I'm doing and if you're on GitHub, you're probably smarter than me and can figure it out.
 
 **Please forward all issues, bugs, complaints, praise, and any questions to:
-solosightapp@gmail.com
-**
+solosightapp@gmail.com**
 
