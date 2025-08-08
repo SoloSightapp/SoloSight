@@ -1,0 +1,7 @@
+{
+  "camera_labels": [],
+  "save_path": "recordings",
+  "record_chunk_minutes": 5,
+  "max_record_minutes": 60,
+  "window_geometry": null
+}
