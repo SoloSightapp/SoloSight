@@ -1,4 +1,4 @@
-**Welcome to SoloSight! **
+**Welcome to SoloSight!**
 
 I created this app (with ChatGPT's help) because I wanted to be able to use generic USB webcams on my 4Runner as 'spotter' cams since I do a lot of solo off-roading.
 This app is super barebones but does include all the basic functionality for viewing and recording up to 4 webcams on any windows device.
