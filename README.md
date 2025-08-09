@@ -49,7 +49,7 @@ _You can install dependencies with_: "pip install PyQt5 opencv-python requests"
 
 -Select the 'Assets' drop down.
 
--Download the SoloSightvx.x.x.zip
+-Download the SoloSightvx.x.x.zip (Use latest version for best results)
 
 -If your browser warns you that it's a virus, you'll need to select 'download anyway'.
 
